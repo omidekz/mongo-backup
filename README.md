@@ -10,6 +10,6 @@
 
 ### Description
 
-  this image use ```alpine``` in zero layer and reduced the size.
+  this image use ```alpine``` in zero layer and strongly reduced the final image size.
 
   use last version of ```mongodb-tools``` for mongodump 
